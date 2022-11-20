@@ -1,0 +1,40 @@
+-- selecting 8 columns from the regional_sales_data and also joining 4 other columns from 4 tables  
+SELECT 
+  regional_sales_data.StoreID AS store_ID,
+  regional_sales_data.SalesTeamID AS sales_team_ID,
+  regional_sales_data.CustomerID AS customer_ID,
+  regional_sales_data.ProductID AS products_ID,
+  regional_sales_data.SalesChannel AS sales_channel,
+  regional_sales_data.Year AS year,
+  regional_sales_data.OrderQuantity as order_quantity,
+  regional_sales_data.Gross_Profit AS gross_profit,
+  customers_data.Customer_Names AS customter_name,
+  products_data.Product_Name AS product_name,
+  sales_team_data.Region AS region,
+  store_locations_data._Population_ AS population
+
+FROM 
+  sales_analysis.regional_sales_data
+
+-- using Inner Join because we only need the selected 8 columns from the regional_sales_data
+INNER JOIN
+  sales_analysis.customers_data ON regional_sales_data.CustomerID = customers_data.CustomerID
+INNER JOIN
+  sales_analysis.products_data ON regional_sales_data.ProductID = products_data.ProductID
+INNER JOIN
+  sales_analysis.sales_team_data ON regional_sales_data.SalesTeamID = sales_team_data.SalesTeamID
+INNER JOIN
+  sales_analysis.store_locations_data ON regional_sales_data.StoreID = store_locations_data.StoreID
+  
+-- ensuring empty data is not joined/imported from the tables
+WHERE                                 
+  customers_data IS NOT NULL
+AND
+  products_data IS NOT NULL
+AND 
+  sales_team_data IS NOT NULL
+AND  
+  store_locations_data IS NOT NULL
+
+ORDER BY
+  store_ID 
