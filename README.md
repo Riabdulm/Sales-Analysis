@@ -70,25 +70,18 @@ The **interactive Dashboard created on Tableau** can be found here --------> htt
   **iv.	Sales channel performance by region**: In the Midwest, Distributorship is the most popular sales channel. Moreover, no sales were made in this region via Wholesale in the period. The Northeast saw most of its sales (58%) In-store, with Online sales coming a distant second. The South had most of its sales online, and In-store came a close second. The West had the majority of its sales In-store, and the least sales were via Distributorship.
 
 
-## Conclusion & Recommendations:
-  **i.**        The Midwest is the most profitable region, and the region also had the highest sales during the period with approximately 29% of the total ordered quantity. This might be due to the Sales team in that region working hard and pushing sales. It might also be that the company’s competitors in this region are not as strong as those in other regions. 
-
-**Recommmendation:** The company should monitor their performance in this region keenly as this is RegSales Co’s cash cow, and it will need the cash flows from there to invest in other regions like the South or Northeast that are not performing as well.
+## Recommendations:
+•	RegSales Co should monitor their performance region keenly in the Midwest as this is RegSales Co’s cash cow, and it will need the cash flows from there to invest in other regions like the South or Northeast that are not performing as well.
 
 
-  **ii.**       Medline is RegSales Co’s most profitable customer with Apotheca, Ltd coming a close second. These two customers purchase the company’s products across the four regions. 
-		
-**Recommmendation:** The company should ensure to keep these two customers and the other profitable customers satisfied. Reward programs and discounts can be offered to them to ensure they stay loyal and do not get poached by their competitors. This will also help the company avoid the acquisition cost of trying to lure newer customers.
+•	The company should ensure to keep its most these profitable customers satisfied. Reward programs and discounts can be offered to them to ensure they stay loyal and do not get poached by their competitors. This will also help the company avoid the acquisition cost of trying to lure newer customers.
 
 
-**iii.**        Accessories being the most profitable product might be because of their versatilities as accessories are needed for lots of things. On the other hand, the pillows are the least profitable. 
-	
-**Recommmendation:** RegSales Co. should keep on selling pillows as they might be bought together with other complementary products the company is selling such as Bedroom Furniture, Blankets, Furniture cushions etc.
+•	Accessories being the most profitable product might be because of their versatilities as accessories are needed for lots of things. On the other hand, the pillows are the least profitable. However, it is recommended for the company keep on selling pillows as they might be bought together with other complementary products the company is selling such as Bedroom Furniture, Blankets, Furniture cushions etc.
 
 
-  **iv.**       The most popular sales channel for the company during this period was In-store with 41% of the company sales going through this channel. The least popular sales channel is Wholesale with 11%. However, different sales channel has worked well in different regions of the country for the company. 
-  
-**Recommmendation:** The company should maximize the sales channel that best suits a particular region. Other sales channels should also be explored so the company can have a competitive advantage over their competitors in the region.
+•	The most popular sales channel for the company during this period was In-store with 41% of the company sales going through this channel. The least popular sales channel is Wholesale with 11%. However, different sales channel has worked well in different regions of the country for the company. It is recommended for the company to maximize the sales channel that best suits a particular region. Other sales channels should also be explored so the company can have a competitive advantage over their competitors in the region.
+
 
 A comprehensive report of the analysis is given on **PowerPoint slides**, and it can be found here ---------> https://github.com/Riabdulm/Sales-Analysis/blob/9f0c3a815381c65122560aa8275630d321bd5a2f/PowerPoint%20Presentation%20of%20RegSales%20Co.%20Regional%20Sales%20Analysis.pptx 
 
