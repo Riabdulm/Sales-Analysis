@@ -4,7 +4,7 @@ Regional Sales Analysis of a retail company based in the United States
 ## Introduction:
 The company is a retail company located in the United States. For anonymity, the company will be assigned the name RegSales Co for this project. RegSales Co has stores in all the states in the US with a presence in Cities, Towns and Boroughs. The company stores in these locations have been grouped into four regions which consist of Northeast, West, South and Midwest.
 
-RegSales co-management team engaged a financial analyst to analyse their performance across these regions and also know who their standout sales team, customers, products, and which channel is the best for promoting and selling their products. This is aimed to help the company maximize the opportunities in the market and further cause disruption to their competitors in the retail market.
+RegSales Co's management wants a financial analyst to analyse their performance across these regions and also know who their standout sales team, customers, products, and which channel is the best for promoting and selling their products. This is aimed to help the company maximize the opportunities in the market and further cause disruption to their competitors in the retail market.
 
 
 ## Objectives of the Analysis:
