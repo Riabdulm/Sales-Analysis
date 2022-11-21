@@ -10,13 +10,13 @@ RegSales co-management team engaged a financial analyst to analyse their perform
 ## Objectives of the Analysis:
 The objectives of the analysis are listed below:
  
-    i.	What region is the best performing region in terms of profit (Gross profit) 
+ 	i. What region is the best performing region in terms of profit (Gross profit) 
   
-    ii.	To know the customer’s top profitable customers and be able to focus on them to avoid losing them to competitors
-  
-    iii. To know what the most profitable products are among the products they are selling 
-  
-    iv.	To understand which sales channels work best in the different regions
+  	ii. To know the customer’s top profitable customers and focus on them to avoid losing them to competitors
+	
+	iii. To know what the most profitable products are among the products they are selling 
+	
+	iv. To understand which sales channels work best in the different regions
 
 These insights will be used by the company’s key stakeholders – current shareholders, management team, potential investors, and employees to make value-adding decisions for the organization and its customers across the US.
 
